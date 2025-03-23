@@ -1,6 +1,4 @@
 # Stepquest Backend (The cooler aspect of this project)
-This is better than the bum frontend which was completely GPT'd. Only 30% GPT here and going up.
-
 ## Setup Instructions
 1) Install python LTS (3.13 or higher)
 2) git clone this repository
