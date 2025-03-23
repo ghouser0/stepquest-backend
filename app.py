@@ -38,7 +38,7 @@ def hello():
 def users_post():
     user_id = request.user_id
     if not user_id:
-        return "No user id!", 400
+        return "KYS!! Keep yourself safe!", 400
 
     return f"POSTED UserId: {user_id}", 200
 
